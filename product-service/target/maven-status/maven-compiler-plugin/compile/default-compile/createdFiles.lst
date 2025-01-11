@@ -1,0 +1,8 @@
+com\oa\microservices\product\repository\ProductRepository.class
+com\oa\microservices\product\service\ProductService.class
+com\oa\microservices\product\dto\ProductRequest.class
+com\oa\microservices\product\dto\ProductResponse.class
+com\oa\microservices\product\controller\ProductController.class
+com\oa\microservices\product\ProductServiceApplication.class
+com\oa\microservices\product\model\Product$ProductBuilder.class
+com\oa\microservices\product\model\Product.class
