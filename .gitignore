@@ -1,1 +1,4 @@
 order-service/mysql/*
+api-gateway/volume-data/*
+product-service/data/*
+inventory-service/mysql/*
